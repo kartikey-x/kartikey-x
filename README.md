@@ -14,5 +14,3 @@ Hi, I'm Kartikey 👋  <br>B.Tech CSE (AI/ML) student passionate about building 
 
 ---
 [![](https://komarev.com/ghpvc/?username=kartikey-x&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
