@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, I'm Kartikey 👋  <br>B.Tech CSE (AI/ML) student passionate about building scalable backend systems and data-driven applications.<br>🔭 I’m currently working on  <br>- NotaLink – a full-stack academic note-sharing platform using Flask, SQLite & REST APIs  <br>- Strengthening backend development & API design skills  <br><br>👯 I’m looking to collaborate on  <br>- Open-source projects in Web Development / AI-ML  <br>- Backend systems, REST APIs, or Python-based tools  <br><br>🤝 I’m looking for help with  <br>- Scaling web applications (performance, deployment)  <br>- Real-world ML model implementation & optimization  <br><br>🌱 I’m currently learning  <br>- Advanced Data Structures & Algorithms  <br>- Machine Learning (supervised/unsupervised)  <br>- Backend development with Flask & databases  <br><br>💬 Ask me about  <br>- Python, Flask, REST APIs  <br>- Data Structures & Problem Solving (80+ problems solved)  <br>- Building CLI tools & web apps  <br><br>⚡ Fun fact  <br>- I’ve built tools ranging from steganography-based security systems to productivity CLI apps  
 
-
+## 🕸️My Website: https://ks-portfolio-gold.vercel.app/
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/unclaimedheat) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kartikey-singh-538bba276/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Carrot_Chopper_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikeysingh2007@gmail.com) 
 
